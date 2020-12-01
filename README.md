@@ -50,7 +50,7 @@ Above chart shows how fast the football transfer industry is growing.It reached 
 \
 Above table shows the numbers of transfers are increasing, average fees are increasing as well as years pass.
 
-What makes a football player expensive? Can the fee be predicted? I decided to go on these questions and by using the world-wide known website "transfermarkt" I built two  models  on transfer fees. I tried lightgbm and keras to predict the values. 
+What makes a football player expensive? Can the fee be predicted? I decided to go on these questions and by using the world-wide known website "transfermarkt" I built two  models  on transfer fees. I tried lightgbm and keras to predict the values.
 I started firstly scraping transfer data from the [transfermarkt](https://wwww.transfermarkt.com)
 
 
@@ -107,7 +107,7 @@ In notebook
 
 
 ## Results<a name="results"></a>
-Main findings can be found in [this](https://medium.com/@yahyayavuz1/i-ve-never-seen-a-bag-of-money-score-a-goal-12cdc5cae4e1) medium post
+Main findings can be found in [this](https://yahyayavuz1.medium.com/predicting-transfer-fee-of-a-football-player-838ad96d9aa2) medium post
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
